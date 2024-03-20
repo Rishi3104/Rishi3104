@@ -13,6 +13,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rishi3104&icon=2&color=11)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rishi3104/count.svg?"  />
+</div>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
