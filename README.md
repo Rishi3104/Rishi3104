@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 About Me: 
+## Hello, World! I'm Rishi. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+
 🔭 I’m currently working on improving myself as a developer<br>👯 I’m looking to collaborate on different projects<br>🤝 I’m open to be a part of a dynamic team and find the challenges that programming brings very exciting!<br>🌱 I’m currently learning Javascript<br>
 
 
