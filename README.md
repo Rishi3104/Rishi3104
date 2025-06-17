@@ -1,27 +1,53 @@
-# 💫 About Me: 
-## Hello, World! I'm Rishi. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+# 👋 Hello World, I'm Rishi!
 
-🔭 I’m currently working on improving myself as a developer<br>👯 I’m looking to collaborate on different projects<br>🤝 I’m open to be a part of a dynamic team and find the challenges that programming brings very exciting!<br>🌱 I’m currently learning Javascript<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rishi_bhardwaj_3104/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishi-bhardwaj-853535254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Rishi_3104?t=2ptGrCOeyfq-HghgDwFNlg&s=09) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rishi3104&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rishi3104&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi3104&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+🚀 A passionate developer constantly learning and building.  
+💻 Currently focused on **Java, Backend Development**, and **DSA (C++)**.  
+🌱 Exploring **Spring Boot**, **REST APIs**, and preparing for **placement season**.
 
 ---
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rishi3104/count.svg?"  />
-</div>
 
-###
+## 🛠️ Tech Stack
+- **Languages:** Java, C++, JavaScript (learning)
+- **Backend:** Spring Boot, JDBC (ongoing), REST APIs
+- **Databases:** MySQL, MongoDB (soon)
+- **Tools:** Git, IntelliJ IDEA, VS Code
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi3104&theme=radical&show_icons=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishi3104&theme=radical&hide_border=false" height="150"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=flat-square)](https://www.linkedin.com/in/rishi-bhardwaj-853535254/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat-square)](https://www.instagram.com/rishi_bhardwaj_3104/)  
+[![X/Twitter](https://img.shields.io/badge/-Twitter-black?logo=Twitter&logoColor=white&style=flat-square)](https://x.com/Rishi_3104)
+
+---
+
+## ✨ Highlight Projects
+
+| Project | Description |
+|--------|-------------|
+| 🧮 **Employee Payroll System** | Java OOPs-based system with full-time and part-time employee management |
+| 📂 **Mini Java Projects** | Collection of practice programs and mini assignments |
+| 🧠 **DSA in C++** | Solving 450+ curated coding questions for placements |
+
+---
+
+## 💬 Quote I Believe In
+
+> “Strive for progress, not perfection.”  
+> — Unknown
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Rishi3104/count.svg?" alt="Visitor Count"/>
+</p>
