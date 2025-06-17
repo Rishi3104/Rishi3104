@@ -7,9 +7,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, C++, JavaScript (learning)
-- **Backend:** Spring Boot, JDBC (ongoing), REST APIs
-- **Databases:** MySQL, MongoDB (soon)
+- **Languages:** Java, C++, SQL
+- **Backend:** Spring Boot, JDBC , REST APIs
+- **Databases:** MySQL, MongoDB 
 - **Tools:** Git, IntelliJ IDEA, VS Code
 
 ---
@@ -37,7 +37,7 @@
 |--------|-------------|
 | 🧮 **Employee Payroll System** | Java OOPs-based system with full-time and part-time employee management |
 | 📂 **Mini Java Projects** | Collection of practice programs and mini assignments |
-| 🧠 **DSA in C++** | Solving 450+ curated coding questions for placements |
+| 🧠 **DSA in C++** | Solving 450+ curated coding questions |
 
 ---
 
