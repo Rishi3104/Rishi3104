@@ -1,8 +1,8 @@
 # 👋 Hello World, I'm Rishi!
 
 🚀 A passionate developer constantly learning and building.  
-💻 Currently focused on **Java, Backend Development**, and **DSA (C++)**.  
-🌱 Exploring **Spring Boot**, **REST APIs**, and preparing for **placement season**.
+💻 Currently focused on **React.js, Backend Development**, and **DSA (C++)**.  
+🌱 Exploring **Node.js**, **REST APIs**, and preparing for **placement season**.
 
 ---
 
