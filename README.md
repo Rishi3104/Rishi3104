@@ -2,13 +2,13 @@
 
 🚀 A passionate developer constantly learning and building.  
 💻 Currently focused on **React.js, Backend Development**, and **DSA (C++)**.  
-🌱 Exploring **Node.js**, **REST APIs**, and preparing for **placement season**.
+
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, C++, SQL
-- **Backend:** Spring Boot, JDBC , REST APIs
+- **Languages:** Javascript, C++, SQL
+- **Backend:** Express.js , REST APIs
 - **Databases:** MySQL, MongoDB 
 - **Tools:** Git, IntelliJ IDEA, VS Code
 
